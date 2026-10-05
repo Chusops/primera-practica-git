@@ -5,6 +5,7 @@ holaaaaaaaaaaaaa
 **Módulo:** 0487 Entornos de Desarrollo (DAW / DAM) — RD 405/2023
 **Resultado de aprendizaje principal:** RA4 — *Optimiza código empleando las herramientas disponibles en el entorno de desarrollo* (criterios 4f, 4h, 4i)
 
+y esto tambien sale? 
 
 > Esta unidad se imparte la primera de todas, antes que ningún otro contenido del módulo, porque el control de versiones no es "un tema más": es la herramienta con la que vas a trabajar **todos los días, en todos los módulos, durante los dos cursos**. Aprenderlo bien ahora te ahorra dolores de cabeza después.
 
